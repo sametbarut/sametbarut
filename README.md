@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Samet Barut</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I+am+Samet+Barut!" alt="Typing SVG" /></a>
+</h1>
+
 <h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Blog App](https://github.com/sametbarut/Blog-App)
@@ -20,6 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sametbarut&show_icons=true&locale=en" alt="sametbarut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sametbarut&" alt="sametbarut" /></p>
-
-
-![snake gif](https://github.com/sametbarut/sametbarut/blob/output/github-contribution-grid-snake.gif)
